@@ -1,6 +1,6 @@
-## Hi there 👋I'm Kanishka
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37cb16b0-0bff-4a68-b62e-aade67bcadd1" />## Hi there 👋I'm Kanishka
 
-<!--
+<!-- CASE STUDY 1 :- Hospital Readmission Prediction
 **kanakkatyan/kanakkatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
