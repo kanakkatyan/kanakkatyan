@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Kanishka
 
-<!-- CASE STUDY 1 :- Hospital Readmission Prediction
-**kanakkatyan/kanakkatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CASE STUDY 1 :- Hospital Readmission Prediction
+<!-- **kanakkatyan/kanakkatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
